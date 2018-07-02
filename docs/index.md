@@ -1,7 +1,9 @@
 ---
-layout: home
+layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This blog will serve to document my learning and understanding of the CS 373 course.
 
-## listing maybe:
+### Blog Listings:
+
+ - [Week 1](./basics-of-malware.html)

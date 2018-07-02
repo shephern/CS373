@@ -2,5 +2,5 @@
 layout: home
 ---
 
-No css? and no url changing
+No css? and posts folder
 Listed links of all blogs:

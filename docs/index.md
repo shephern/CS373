@@ -1,5 +1,6 @@
 ---
 layout: home
 ---
-No css?
+
+No css? and no url changing
 Listed links of all blogs:

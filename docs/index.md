@@ -1,6 +1,14 @@
 ---
-layout: home
+layout: default
 ---
-
-No css? and posts folder
-Listed links of all blogs:
+<div class="post">
+  <p>Now with htmls?</p>
+  {{ content }}
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

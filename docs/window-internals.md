@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Windows Internals"
+title:  "Window Internals"
 date:   2018-07-31 12:01:12 -0700
 categories: blog
-permalink: /blog/windows-internals.html
+permalink: /blog/window-internals.html
 ---
 
 ### Topics

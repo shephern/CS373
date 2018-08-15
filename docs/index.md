@@ -8,7 +8,7 @@ It will teach me the basics of anti-malware, malware forensics and analysis, and
 Each week I will be completing the labs and listening to the lectures.
 What I learn will be documented here.
 
-### Blog Listings:
+### Weekly Blog Listings:
 
  1. [Basics of Malware](./blog/basics-of-malware.html)
  2. [Advanced Forensics](./blog/advanced-forensics.html)
